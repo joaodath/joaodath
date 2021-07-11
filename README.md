@@ -6,7 +6,8 @@
 😄 Pronouns: He/him and They/them
 
 🌱 I’m currently learning Python focusing on Data Science and Machine Learning
-at Blue Edtech and Udacity (through an AWS scholarship).
+at Blue Edtech and Udacity (through an AWS scholarship). I'm also graduating as
+a Bachelor in Marketing & Advertising.
 
 📚 I'm a super fan of books since forever. Favorite ones are _Arthur and Dante
 Discovers The Secrets of Universe, The Hitchhiker's Guide to the Galaxy series,
