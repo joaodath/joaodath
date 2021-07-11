@@ -11,7 +11,7 @@ at Blue Edtech and Udacity (through an AWS scholarship).
 📫 You can reach me by email joaorodriguesdiasneto@gmail.com and Twitter
 [@joaodath](https://twitter.com/joaodath)
 
-I'm a super fan of books since forever. Favorite ones are _Arthur and Dante
+📚 I'm a super fan of books since forever. Favorite ones are _Arthur and Dante
 Discovers The Secrets of Universe, The Hitchhiker's Guide to the Galaxy series,
 Something Like... series_ and some good old _Torto Arado_.
 
