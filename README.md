@@ -8,13 +8,17 @@
 🌱 I’m currently learning Python focusing on Data Science and Machine Learning
 at Blue Edtech and Udacity (through an AWS scholarship).
 
-📫 You can reach me by email joaorodriguesdiasneto@gmail.com and Twitter
-[@joaodath](https://twitter.com/joaodath)
-
 📚 I'm a super fan of books since forever. Favorite ones are _Arthur and Dante
 Discovers The Secrets of Universe, The Hitchhiker's Guide to the Galaxy series,
 Something Like... series_ and some good old _Torto Arado_.
 
+👸 HUGE fan of She-Ra and the princesses of power. 
+
+### Let's chat!
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/joaodath?style=social)]
+[![Telegram Button](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaodath)
+[![LinkedIn Button](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaodath)
 
 
 <!--
