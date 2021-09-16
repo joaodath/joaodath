@@ -9,6 +9,7 @@
 at Udacity (through an AWS scholarship) and DIO (through their enormous 
 collection of free bootcamps). I'm also learning Javascript programming with 
 NodeJS at Blue Edtech AND graduating as a Bachelor in Marketing & Advertising.
+
 Who needs to sleep, am I right? Please tell me I am...
 Just kidding, I sleep. Just not enough.
 
@@ -16,7 +17,7 @@ Just kidding, I sleep. Just not enough.
 Discovers The Secrets of Universe, The Hitchhiker's Guide to the Galaxy series,
 Something Like... series_ and some good old _Torto Arado_.
 
-👸 HUGE fan of She-Ra and the princesses of power. 
+👸 HUGE fan of She-Ra and the princesses of power. AND I MEAN HUGE!
 
 ### Let's chat!
 
