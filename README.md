@@ -13,7 +13,7 @@ NodeJS at Blue Edtech AND graduating as a Bachelor in Marketing & Advertising.
 Who needs to sleep, am I right? Please tell me I am...
 Just kidding, I sleep. Just not enough.
 
-📚 I'm a super fan of books since forever. Favorite ones are _Arthur and Dante
+📚 I'm a super fan of books since forever. Favorite ones are _Aristotle and Dante
 Discovers The Secrets of Universe, The Hitchhiker's Guide to the Galaxy series,
 Something Like... series_ and some good old _Torto Arado_.
 
